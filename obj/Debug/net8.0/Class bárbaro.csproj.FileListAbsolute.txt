@@ -1,0 +1,14 @@
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\bin\Debug\net8.0\Class bárbaro.exe
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\bin\Debug\net8.0\Class bárbaro.deps.json
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\bin\Debug\net8.0\Class bárbaro.runtimeconfig.json
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\bin\Debug\net8.0\Class bárbaro.dll
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\bin\Debug\net8.0\Class bárbaro.pdb
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.AssemblyInfo.cs
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.dll
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\refint\Class bárbaro.dll
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.pdb
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\Class bárbaro.genruntimeconfig.cache
+C:\Users\User\Documents\UNIP\POO\Exercícios\Class bárbaro\obj\Debug\net8.0\ref\Class bárbaro.dll
